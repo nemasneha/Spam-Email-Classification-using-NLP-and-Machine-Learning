@@ -53,13 +53,6 @@ The dataset is ready for training, so we create a naive classifier using scikit-
    ```
 2. Open 'main.ipynb' in Google Colab or VScode and enjoy
 
-<!-- REFERENCES -->
-## <br>**➲ References**
-These links may help you to better understanding of the project idea and techniques used :
-1. Spam detection in machine learning : https://bit.ly/3nwiKtA
-2. Naive-bayes algorithm : https://bit.ly/3zc9SLH
-3. Model evaluation : https://bit.ly/3B12VOO
-
 <!-- CONTACT -->
 ## <br>**➲ Contact**
 - E-mail   : [nemasneha2403@gmail.com]
